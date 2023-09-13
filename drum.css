@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: rgb(121, 13, 13);
+}
+#top{
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 34px;
+}
+#total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.keys{
+    background-color:white;
+    margin: 34px;
+    padding: 34px;
+    /* display: flex; */
+    
+
+
+}
+
